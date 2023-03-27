@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="flex md:sticky md:top-0 md:z-50  justify-between items-center h-24 cursor-pointer max-w-[1240px] mx-auto px-4 ">
+      <div className="flex  justify-between items-center h-24 cursor-pointer max-w-[1240px]  mx-auto px-4 ">
         <h1 className="w-full text-3xl font-bold ">Travel.com</h1>
 
         <ul className="hidden md:flex">
